@@ -17,7 +17,7 @@ class TheApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Word Hurdle',
+      title: 'Word Hurdle App',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
           seedColor: const Color.fromARGB(255, 144, 111, 4),
